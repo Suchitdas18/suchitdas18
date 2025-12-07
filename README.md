@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=SUCHIT%20DAS&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Future,%20One%20Line%20at%20a%20Time&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BFFA6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Cybersecurity+Explorer+%7C+Cloud+Native+Builder;Hackathon+Warrior+%7C+Fast+Prototyper;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BFFA6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Cybersecurity+Explorer+%7C+Cloud+Native+Builder;Hackathon+Warrior+%7C+Fast+Prototyper;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
 <br/>
 
@@ -201,19 +201,3 @@ Analyzing cybersecurity threats and patterns using Python. Data-driven insights 
 <sub>Made with 💚 by Suchit Das</sub>
 
 </div>
-
-
-<!--
-**Suchitdas18/suchitdas18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
