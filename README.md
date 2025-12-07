@@ -59,21 +59,79 @@ mindset: "Code is poetry, security is art, AI is the future"
 
 <div align="center">
 
-**Frontend Universe**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&perline=8&theme=dark" />
+<!-- Frontend Section -->
+<table>
+<tr><td>
 
-**Backend & Database**
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,python,java&perline=8&theme=dark" />
+### Frontend Universe
+Building Beautiful & Interactive UIs
 
-**DevOps & Cloud**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&perline=8&theme=dark" width="500" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman&perline=8&theme=dark" />
+</td></tr>
+</table>
 
-**Tools & Productivity**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
-<img src="https://skillicons.dev/icons?i=vscode,notion,figma,github&perline=8&theme=dark" />
+<!-- Backend Section -->
+<table>
+<tr><td>
+
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+
+### Backend & Database
+Powering Scalable Applications
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,python,java&perline=6&theme=dark" width="400" />
+</p>
+
+</td></tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+<!-- DevOps Section -->
+<table>
+<tr><td>
+
+<img align="left" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80">
+
+### DevOps & Cloud
+Deploying with Confidence
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman&perline=6&theme=dark" width="400" />
+</p>
+
+</td></tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+<!-- Tools Section -->
+<table>
+<tr><td>
+
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
+
+### Tools & Productivity
+Optimizing My Workflow
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,notion&perline=4&theme=dark" width="300" />
+</p>
+
+</td></tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
