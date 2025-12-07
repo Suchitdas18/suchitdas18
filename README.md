@@ -24,11 +24,11 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Suchit Das
-location: India
-education: 3rd Year B.Tech CSE @ KIIT
-status: Building, Learning & Breaking Things
-mindset: "Code is poetry, security is art, AI is the future"
+Name: Suchit Das
+Location: India
+Education: 3rd Year B.Tech CSE @ KIIT
+Status: Building, Learning & Breaking Things
+Mindset: "Code is poetry, security is art, AI is the future"
 ```
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -40,10 +40,14 @@ mindset: "Code is poetry, security is art, AI is the future"
 - Advanced Cybersecurity Techniques
 
 🏆 **Achievements:**
+- 🏅 SIH Internal Hackathon - Rank 4
+- 🏅 Winner – 1st Position in Vision Bharat Trust Community Challenge
+- 🎯 NITR Innovathon 25 Finalist
+- 🎯 Active Hackathon Participant
 - ✅ AWS Fundamentals of ML & AI Certified
 - ✅ Data-Driven Cybersecurity (Python) - KIIT
 - ✅ Problem Solving Master - Udemy
-- 🎯 Active Hackathon Participant
+- ✅ Full-stack development - Apna college
 
 💡 **What Drives Me:**
 - Building tools that solve real problems
