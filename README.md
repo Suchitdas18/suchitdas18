@@ -87,27 +87,27 @@ mindset: "Code is poetry, security is art, AI is the future"
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 Portify
-*The Ultimate Resume Builder*
+#### 💬 WhatsApp Clone
+*Real-time Messaging Platform*
 
-Build ATS-optimized resumes, professional portfolios, and stand out from the crowd. One-stop solution for job seekers.
+Full-featured WhatsApp clone with real-time messaging, OTP authentication, user profiles, and modern chat interface.
 
-**Tech:** React, Node.js, MongoDB, Tailwind CSS
+**Tech:** React, Node.js, MongoDB, Socket.io, Redis
 
-<a href="#"><img src="https://img.shields.io/badge/🔗_View_Project-3BFFA6?style=for-the-badge&logoColor=white&labelColor=1a1a1a" /></a>
+<a href="#"><img src="https://img.shields.io/badge/🔗_View_Project-25D366?style=for-the-badge&logoColor=white&labelColor=1a1a1a" /></a>
 <a href="#"><img src="https://img.shields.io/badge/⭐_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-#### ⚡ Crixo
-*Website Builder in 5 Seconds*
+#### 🎬 Netflix Clone
+*Premium Streaming Experience*
 
-Revolutionary website builder that creates stunning sites in seconds. Fast prototyping meets beautiful design.
+Netflix-inspired streaming platform with dynamic movie posters, My List feature, smooth animations, and professional UI.
 
-**Tech:** Next.js, TypeScript, Tailwind, AWS
+**Tech:** React, JavaScript, CSS, Local Storage
 
-<a href="#"><img src="https://img.shields.io/badge/🔗_View_Project-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" /></a>
+<a href="#"><img src="https://img.shields.io/badge/🔗_View_Project-E50914?style=for-the-badge&logoColor=white&labelColor=1a1a1a" /></a>
 <a href="#"><img src="https://img.shields.io/badge/⭐_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
